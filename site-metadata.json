@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "title": "Azimuth",
-        "logo_img": "images/logo.png",
+        "logo_img": "images/logo-nero.png",
         "has_nav": true,
         "nav_links": [
             {
@@ -15,17 +15,8 @@
                 "url": "/features"
             },
             {
-                "label": "Pricing",
+                "label": "Partners",
                 "url": "/pricing"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
-                "primary": true
             }
         ]
     },

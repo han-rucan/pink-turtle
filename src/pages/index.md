@@ -2,21 +2,18 @@
 title: Home
 sections:
   - type: section_hero
-    title: This Is A Big Hero Headline
+    title: co.exist
     section_id: hero
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    actions:
-      - label: Learn More
-        url: /features
+       Intelligenza Artificiale per gestire efficacemente l’impatto del Covid-19<br/>
+       **co.exist** è una piattaforma software di video analisi basata sulle più moderne
+       ed innovative tecnologie di Object Tracking e Deep Learning.
+    image: images/coexist-hero.png
   - type: section_features
-    title: Features
+    title: Behaviour Analysis per prevenire Covid-19
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Grazie alla consolidata esperienza di Sprinx nello sviluppo di algoritmi di behaviour analysis, co.exist permette di monitorare aree indoor e outdoor generando allarmi e dati statistici utili non solo per garantire il rispetto puntuale delle direttive sanitarie e governative in tema di Covid-19 ma anche per fornire strumenti atti a pianificare e gestire, in ambito sia pubblico sia privato, il rientro a una «nuova normalità».
     background: gray
     features:
       - title: The Best Feature of Your Services
@@ -51,7 +48,7 @@ sections:
     section_id: reviews
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      semper libero id sodales.
     background: white
     reviews:
       - author: John Doe
