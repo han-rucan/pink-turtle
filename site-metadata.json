@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "title": "Azimuth",
-        "logo_img": "images/logo-nero.png",
+        "logo_img": "images/logo-coexist.png",
         "has_nav": true,
         "nav_links": [
             {
@@ -23,14 +23,18 @@
                 "url": "/partners"
             },
             {
+                "label": "Interfaccia utente",
+                "url": "/ui"
+            },
+            {
                 "label": "Contatti",
                 "url": "/contatti"
             }
         ]
     },
     "footer": {
-        "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
+        "logo_img": "images/logo-coexist.png",
+        "tagline": "co.exist by Sprinx and AKQA",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
@@ -55,16 +59,6 @@
         "social_title": "Community",
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "new_window": true
@@ -73,7 +67,7 @@
         "has_subscribe": true,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Stackbit. All rights reserved.",
+        "content": "&copy; All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit",

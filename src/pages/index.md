@@ -11,9 +11,16 @@ sections:
     image: images/coexist-hero.png
   - type: section_features
     title: Behaviour Analysis per prevenire Covid-19
-    section_id: features
+    section_id: intro
     subtitle: >-
       Grazie alla consolidata esperienza di Sprinx nello sviluppo di algoritmi di behaviour analysis, co.exist permette di monitorare aree indoor e outdoor generando allarmi e dati statistici utili non solo per garantire il rispetto puntuale delle direttive sanitarie e governative in tema di Covid-19 ma anche per fornire strumenti atti a pianificare e gestire, in ambito sia pubblico sia privato, il rientro a una «nuova normalità».
+    background: gray
+  - type: section_posts
+    title: Ambiti applicativi
+    section_id: recent-posts
+    background: gray    
+  - type: section_features
+    section_id: features
     background: gray
     features:
       - title: The Best Feature of Your Services
@@ -50,9 +57,5 @@ sections:
     actions:
       - label: Contattaci
         url: /contatti
-  - type: section_posts
-    title: Ambiti applicativi
-    section_id: recent-posts
-    background: gray
 template: landing
 ---

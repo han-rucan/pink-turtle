@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Contatti
 sections:
   - type: section_contact
-    title: Contact
+    title: Contatti
     section_id: contact
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
