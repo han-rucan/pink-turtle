@@ -11,12 +11,20 @@
                 "url": "/"
             },
             {
-                "label": "Features",
-                "url": "/features"
+                "label": "Detezioni",
+                "url": "/detezioni"
+            },
+            {
+                "label": "Ambiti applicativi",
+                "url": "/ambiti_applicativi"
             },
             {
                 "label": "Partners",
-                "url": "/pricing"
+                "url": "/partners"
+            },
+            {
+                "label": "Contatti",
+                "url": "/contatti"
             }
         ]
     },
