@@ -15,7 +15,7 @@ export default class SectionHero extends React.Component {
                 <div className="grid">
                   {_.get(section, 'image') &&
                   <div className="cell block-preview">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0_I7iV674Mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://res.cloudinary.com/posbit/video/upload/v1588410114/video_xkmmhq.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                   }
                   <div className="cell block-content">
