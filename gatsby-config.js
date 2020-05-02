@@ -2,6 +2,7 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
     plugins: [
+      `gatsby-transformer-ffmpeg`,
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         {
@@ -36,6 +37,20 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
+        {
+          resolve: "gatsby-transformer-remark",
+          options: {
+            plugins: [
+            {
+              resolve: "gatsby-remark-embed-youtube",
+              options: {
+                width: 800,
+                height: 400
+              }
+            }
+            ]
+          }
+        },        
     ]
 };
