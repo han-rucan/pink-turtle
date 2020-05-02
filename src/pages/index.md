@@ -57,5 +57,12 @@ sections:
     actions:
       - label: Contattaci
         url: /contatti
+  - type: two_cols
+    title_col1: AKQA
+    title_col2: SPRINX
+    content_col1: >-
+      Specializzata nella creazione di servizi e prodotti digitali, con esperti multidisciplinari nei settori della strategia, della creatività, delle soluzioni tecnologiche e dell’analisi dati.
+    content_col2: >-
+      Specializzato nella progettazione e nello sviluppo di algoritmi di video e behaviour analysis basati su tecnologie Object tracking e Deep Learning, Computer Vision e Artificial Intelligence.
 template: landing
 ---

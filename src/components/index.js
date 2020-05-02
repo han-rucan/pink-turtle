@@ -12,6 +12,7 @@ import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
 import SubscribeForm from './SubscribeForm';
+import TwoCols from './TwoCols';
 import Layout from './Layout';
 
 export {
@@ -29,6 +30,7 @@ export {
     SectionPricing,
     SectionReviews,
     SubscribeForm,
+    TwoCols,
     Layout
 };
 
@@ -47,5 +49,6 @@ export default {
     SectionPricing,
     SectionReviews,
     SubscribeForm,
+    TwoCols,
     Layout
 };
