@@ -44,6 +44,13 @@ sections:
         actions:
           - label: Learn More
             url: /features
+      - title: '#peoplecounting'
+        content: >-
+          Analisi degli accessi al punto vendita, volta a verificare e rilevare il numero di clienti presenti all’interno dello store e garantire il rispetto della capienza massima indicata dagli organi governativi. La piattaforma software consente di analizzare le entrate e le uscite dal negozio e di fornire, oltre a un contatore live, alert all’avvicinamento alla soglia massima consentita
+        image: images/feature3.png
+        actions:
+          - label: Learn More
+            url: /features
   - type: section_cta
     title: Chiedi una demo personalizzata
     section_id: call-to-action

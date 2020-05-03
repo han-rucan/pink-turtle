@@ -10,16 +10,16 @@ export default class Header extends React.Component {
               <div className="inner">
                 <div className="site-header-inside">
                   <div className="site-branding">
-                    {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') && 
+                    {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') &&
                     <p className="site-logo">
                       <Link to={safePrefix('/')}>
                         <img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))} alt="Logo" />
                       </Link>
                     </p>
                     }
-                    {((_.get(this.props, 'pageContext.frontmatter.template') === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template') === 'blog')) ? 
+                    {((_.get(this.props, 'pageContext.frontmatter.template') === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template') === 'blog')) ?
                     <h1 className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></h1>
-                     : 
+                     :
                     <p className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></p>
                     }
                   </div>
@@ -29,6 +29,7 @@ export default class Header extends React.Component {
                       <button id="menu-close" className="menu-toggle"><span className="screen-reader-text">Open Menu</span><span
                           className="icon-close" aria-hidden="true" /></button>
                       <ul className="menu">
+                        <li className="menu-item"><Link to="/" className="button">{_.get(this.props, 'pageContext.url')}</Link></li>
                         {_.map(_.get(this.props, 'pageContext.site.siteMetadata.header.nav_links'), (action, action_idx) => (
                         <li key={action_idx} className={classNames('menu-item', {'current-menu-item': _.get(this.props, 'pageContext.url') === _.get(action, 'url'), 'menu-button': _.get(action, 'primary')})}>
                           <Link to={safePrefix(_.get(action, 'url'))}
