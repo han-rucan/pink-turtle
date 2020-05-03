@@ -24,16 +24,23 @@ sections:
     section_id: features
     background: gray
     features:
-      - title: Desktop
+      - title: Indoor
         content: >-
-          Attraverso la definizione di soglie di prossimità è possibile inviare un allarme in caso di mancato rispetto da parte persone del distanziamento sociale indicata dagli organi sanitari e governativi. La piattaforma software consente di configurare parametri quali: numero di persone coinvolte, soglia di distanza e tempo di permanenza della prossimità.
+          Fabulas fore nostrud appellat ad laboris tempor multos commodo anim. An aliqua
+          doctrina mandaremus id ipsum sed ne minim officia, quem iudicem ubi transferrem
+          ut minim voluptate ne legam multos, do ipsum ad quae, se cupidatat sed appellat
+          aut noster doctrina a quid velit, non irure non tempor.
         image: images/feature1.png
         actions:
           - label: Learn More
             url: /features
-      - title: Mobile
+      - title: Outdoor
         content: >-
-          Allerta in caso di rilevazione di aree eccessivamente affollate e/o di assembramenti, il cui numero di individui coinvolti non risulti in linea con le misure di prevenzione sanitaria. La piattaforma software consente di configurare parametri quali: numero massimo di persone consentite e tempo di permanenza dello stato di assembramento.
+          Magna probant ne ingeniis ubi excepteur noster irure in quorum, e constias se
+          ingeniis de appellat dolor fugiat ubi export, doctrina hic elit vidisse ubi enim
+          eiusmod ubi consectetur hic aliquip concursionibus se laborum e doctrina quis
+          sunt et labore. Ex aliqua quorum tempor nostrud, eu aute proident officia an non
+          velit possumus philosophari ad ut culpa quem anim appellat.
         image: images/feature2.png
         actions:
           - label: Learn More
