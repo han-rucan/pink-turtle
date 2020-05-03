@@ -38,9 +38,9 @@ sections:
         actions:
           - label: Learn More
             url: /features
-  - type: section_posts
+  - type: section_posts2
     title: Detezioni
-    post_slice: 6
+    post_slice: 5
     section_id: recent-posts
     background: gray                
   - type: section_cta
