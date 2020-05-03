@@ -23,29 +23,23 @@ sections:
     section_id: features
     background: gray
     features:
-      - title: The Best Feature of Your Services
+      - title: '#proximity'
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Attraverso la definizione di soglie di prossimità è possibile inviare un allarme in caso di mancato rispetto da parte persone del distanziamento sociale indicata dagli organi sanitari e governativi. La piattaforma software consente di configurare parametri quali: numero di persone coinvolte, soglia di distanza e tempo di permanenza della prossimità.
         image: images/feature1.png
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: '#crowdedarea'
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Allerta in caso di rilevazione di aree eccessivamente affollate e/o di assembramenti, il cui numero di individui coinvolti non risulti in linea con le misure di prevenzione sanitaria. La piattaforma software consente di configurare parametri quali: numero massimo di persone consentite e tempo di permanenza dello stato di assembramento.
         image: images/feature2.png
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
+      - title: '#trafficdensity'
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Analisi delle mobilità e della viabilità nella zona interessata, volta a verificare e rilevare situazioni anomale nella circolazione stradale, in termini di tipologia e numero di veicoli in transito sul territorio o nell’area di competenza, indicando anche eventuali situazioni di coda e/o congestione.
         image: images/feature3.png
         actions:
           - label: Learn More
