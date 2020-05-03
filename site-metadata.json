@@ -11,20 +11,8 @@
                 "url": "/"
             },
             {
-                "label": "Detezioni",
-                "url": "/detezioni"
-            },
-            {
-                "label": "Ambiti applicativi",
-                "url": "/ambiti_applicativi"
-            },
-            {
-                "label": "Partners",
-                "url": "/partners"
-            },
-            {
-                "label": "Interfaccia utente",
-                "url": "/ui"
+                "label": "Componenti",
+                "url": "/componenti"
             },
             {
                 "label": "Contatti",
@@ -41,14 +29,6 @@
             {
                 "label": "About Us",
                 "url": "/about"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
-                "label": "Sign Up",
-                "url": "signup"
             },
             {
                 "label": "Contact",

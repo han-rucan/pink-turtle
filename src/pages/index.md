@@ -13,44 +13,36 @@ sections:
     title: Behaviour Analysis per prevenire Covid-19
     section_id: intro
     subtitle: >-
-      Grazie alla consolidata esperienza di Sprinx nello sviluppo di algoritmi di behaviour analysis, co.exist permette di monitorare aree indoor e outdoor generando allarmi e dati statistici utili non solo per garantire il rispetto puntuale delle direttive sanitarie e governative in tema di Covid-19 ma anche per fornire strumenti atti a pianificare e gestire, in ambito sia pubblico sia privato, il rientro a una «nuova normalità».
+      Co.exist permette di monitorare aree indoor e outdoor generando allarmi e dati statistici utili non solo per garantire il rispetto puntuale delle direttive sanitarie e governative in tema di Covid-19 ma anche per fornire strumenti atti a pianificare e gestire, in ambito sia pubblico sia privato, il rientro a una <br/>«nuova normalità».
     background: gray
   - type: section_posts
     title: Ambiti applicativi
     section_id: recent-posts
     background: gray    
+    post_slice: 3
   - type: section_features
     section_id: features
     background: gray
     features:
-      - title: '#proximity'
+      - title: Desktop
         content: >-
           Attraverso la definizione di soglie di prossimità è possibile inviare un allarme in caso di mancato rispetto da parte persone del distanziamento sociale indicata dagli organi sanitari e governativi. La piattaforma software consente di configurare parametri quali: numero di persone coinvolte, soglia di distanza e tempo di permanenza della prossimità.
         image: images/feature1.png
         actions:
           - label: Learn More
             url: /features
-      - title: '#crowdedarea'
+      - title: Mobile
         content: >-
           Allerta in caso di rilevazione di aree eccessivamente affollate e/o di assembramenti, il cui numero di individui coinvolti non risulti in linea con le misure di prevenzione sanitaria. La piattaforma software consente di configurare parametri quali: numero massimo di persone consentite e tempo di permanenza dello stato di assembramento.
         image: images/feature2.png
         actions:
           - label: Learn More
             url: /features
-      - title: '#trafficdensity'
-        content: >-
-          Analisi delle mobilità e della viabilità nella zona interessata, volta a verificare e rilevare situazioni anomale nella circolazione stradale, in termini di tipologia e numero di veicoli in transito sul territorio o nell’area di competenza, indicando anche eventuali situazioni di coda e/o congestione.
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: '#peoplecounting'
-        content: >-
-          Analisi degli accessi al punto vendita, volta a verificare e rilevare il numero di clienti presenti all’interno dello store e garantire il rispetto della capienza massima indicata dagli organi governativi. La piattaforma software consente di analizzare le entrate e le uscite dal negozio e di fornire, oltre a un contatore live, alert all’avvicinamento alla soglia massima consentita
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
+  - type: section_posts
+    title: Detezioni
+    post_slice: 6
+    section_id: recent-posts
+    background: gray                
   - type: section_cta
     title: Chiedi una demo personalizzata
     section_id: call-to-action
@@ -58,6 +50,14 @@ sections:
     actions:
       - label: Contattaci
         url: /contatti
+  - type: section_features
+    title: Lorem ipsum dolor
+    section_id: intro
+    subtitle: >-
+      Culpa occaecat ab fore cillum, minim concursionibus ullamco quis expetendis a
+      elit quo ita elit eiusmod hic noster voluptate o philosophari. Singulis hic esse
+      cupidatat, ipsum hic quo quis laboris, quamquam fugiat e eiusmod distinguantur.
+    background: gray        
   - type: two_cols
     title_col1: AKQA
     title_col2: SPRINX
