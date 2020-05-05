@@ -4,8 +4,8 @@ date: '2019-01-09'
 excerpt: >-
   Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
   faucibus purus. Mauris at pharetra risus.
-image: images/6.jpg
-thumb_image: images/6_thumb.jpg
+image: images/4-traffic.jpg
+thumb_image: images/4-traffic.jpg
 template: post
 ---
 

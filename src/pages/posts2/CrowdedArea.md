@@ -4,8 +4,8 @@ date: '2019-03-24'
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-image: images/11.jpg
-thumb_image: images/11_thumb.jpg
+image: images/2-crowd.jpg
+thumb_image: images/2-crowd.jpg
 template: post
 ---
 

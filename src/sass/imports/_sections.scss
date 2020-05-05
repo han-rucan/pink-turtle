@@ -102,7 +102,7 @@
       -ms-flex: 5;
       flex: 5;
     }
-    
+
     .underline:after {
       display: block;
     }
@@ -560,4 +560,8 @@
   &.bg-gray + &.bg-gray {
     padding-top: 0;
   }
+}
+
+#title-partners {
+  margin-bottom: -20px;
 }

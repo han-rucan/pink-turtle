@@ -30,7 +30,7 @@ sections:
           doctrina mandaremus id ipsum sed ne minim officia, quem iudicem ubi transferrem
           ut minim voluptate ne legam multos, do ipsum ad quae, se cupidatat sed appellat
           aut noster doctrina a quid velit, non irure non tempor.
-        image: images/feature1.png
+        image: images/in.jpg
         actions:
           - label: Learn More
             url: /features
@@ -41,7 +41,7 @@ sections:
           eiusmod ubi consectetur hic aliquip concursionibus se laborum e doctrina quis
           sunt et labore. Ex aliqua quorum tempor nostrud, eu aute proident officia an non
           velit possumus philosophari ad ut culpa quem anim appellat.
-        image: images/feature2.png
+        image: images/out.jpg
         actions:
           - label: Learn More
             url: /features
@@ -56,17 +56,16 @@ sections:
     subtitle:
     actions:
       - label: Contattaci
-        url: /contatti
-  - type: section_features
-    title: Lorem ipsum dolor
-    section_id: intro
+        url: /contatti    
+  - type: two_cols
+    title: Lorem ipsum
     subtitle: >-
       Culpa occaecat ab fore cillum, minim concursionibus ullamco quis expetendis a
       elit quo ita elit eiusmod hic noster voluptate o philosophari. Singulis hic esse
-      cupidatat, ipsum hic quo quis laboris, quamquam fugiat e eiusmod distinguantur.
-    background: gray        
-  - type: two_cols
+      cupidatat, ipsum hic quo quis laboris, quamquam fugiat e eiusmod distinguantur.    
     title_col1: AKQA
+    head_icon_col1: /images/loghi/akqa.png
+    head_icon_col2: /images/loghi/sprinx.png
     title_col2: SPRINX
     content_col1: >-
       Specializzata nella creazione di servizi e prodotti digitali, con esperti multidisciplinari nei settori della strategia, della creatività, delle soluzioni tecnologiche e dell’analisi dati.

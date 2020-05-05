@@ -7,7 +7,8 @@ date: '2019-03-26'
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-thumb_image: images/1_thumb.jpg
+image: images/3-proximity.jpg
+thumb_image: images/3-proximity.jpg
 template: post
 ---
 
