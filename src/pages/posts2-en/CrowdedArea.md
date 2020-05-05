@@ -1,15 +1,12 @@
 ---
-title: "Proximity"
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis.
-date: '2019-03-26'
+title: Crowded Area
+date: '2019-03-24'
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-image: images/3-proximity.jpg
-thumb_image: images/3-proximity.jpg
-action: Leggi
+image: images/2-crowd.jpg
+thumb_image: images/2-crowd.jpg
+action: Learn more
 template: post
 ---
 

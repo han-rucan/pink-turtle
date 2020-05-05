@@ -6,6 +6,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 image: images/2-crowd.jpg
 thumb_image: images/2-crowd.jpg
+action: Leggi
 template: post
 ---
 

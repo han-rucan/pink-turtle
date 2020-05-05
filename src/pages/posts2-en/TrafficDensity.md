@@ -6,7 +6,7 @@ excerpt: >-
   faucibus purus. Mauris at pharetra risus.
 image: images/4-traffic.jpg
 thumb_image: images/4-traffic.jpg
-action: Leggi
+action: Learn more
 template: post
 ---
 

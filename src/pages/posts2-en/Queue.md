@@ -7,7 +7,7 @@ excerpt: >-
   interdum, massa massa tempor ante.
 image: images/5-queue.jpg
 thumb_image: images/5-queue.jpg
-action: Leggi
+action: Learn more
 template: post
 ---
 

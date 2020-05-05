@@ -6,6 +6,7 @@ excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
 image: images/ambito-1.jpg
+action: Leggi
 thumb_image: images/ambito-thumb-1.jpg
 template: post
 ---

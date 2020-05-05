@@ -9,7 +9,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 image: images/3-proximity.jpg
 thumb_image: images/3-proximity.jpg
-action: Leggi
+action: Learn more
 template: post
 ---
 

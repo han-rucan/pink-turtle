@@ -3,11 +3,15 @@ import _ from 'lodash';
 import moment from 'moment-strftime';
 
 import {htmlToReact, getPages, Link, safePrefix, markdownify} from '../utils';
-
+import CtaButtons from './CtaButtons';
 export default class SectionPosts extends React.Component {
     render() {
+        let pageUrl = _.get(this.props, 'pageContext.url');
+        let enLang = pageUrl.includes('-en');
+        let posts_dir = (enLang ? '/posts-en': '/posts');
+
         let section = _.get(this.props, 'section');
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, posts_dir), 'frontmatter.date', 'desc');
         let post_slice = _.get(section, 'post_slice')
         let recent_posts = display_posts.slice(0, post_slice);
         return (
@@ -38,6 +42,11 @@ export default class SectionPosts extends React.Component {
                         </header>
                         <div className="post-excerpt">
                           {markdownify(_.get(post, 'frontmatter.excerpt'))}
+                          {_.get(post, 'frontmatter.action') &&
+                          <Link className="" to={safePrefix(_.get(post, 'url'))}>
+                              {_.get(post, 'frontmatter.action')}
+                          </Link>
+                          }
                         </div>
                         <footer className="post-meta">
                         </footer>

@@ -54,18 +54,17 @@ sections:
     subtitle:
     actions:
       - label: Contact us
-        url: /contatti-en
-  - type: section_features
-    title: Lorem ipsum dolor
-    section_id: intro
+        url: /contatti-en    
+  - type: two_cols
+    title: Lorem ipsum
     subtitle: >-
       Culpa occaecat ab fore cillum, minim concursionibus ullamco quis expetendis a
       elit quo ita elit eiusmod hic noster voluptate o philosophari. Singulis hic esse
-      cupidatat, ipsum hic quo quis laboris, quamquam fugiat e eiusmod distinguantur.
-    background: gray        
-  - type: two_cols
+      cupidatat, ipsum hic quo quis laboris, quamquam fugiat e eiusmod distinguantur.     
     title_col1: AKQA
     title_col2: SPRINX
+    head_icon_col1: /images/loghi/akqa.png
+    head_icon_col2: /images/loghi/sprinx.png    
     content_col1: >-
       Specialized in designing and developing algorithms of video and behavior analysis based on Object Tracking and Deep Learning technologies, with internal experts in Computer Vision and Artificial Intelligence.
     content_col2: >-

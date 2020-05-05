@@ -9,7 +9,7 @@ excerpt: >-
   aliquet rhoncus sed, hendrerit vel odio.
 image: images/ambito-3.jpg
 thumb_image: images/ambito-thumb-3.jpg
-action: Leggi
+action: Learn more
 template: post
 ---
 

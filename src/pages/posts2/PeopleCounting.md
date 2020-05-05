@@ -7,6 +7,7 @@ excerpt: >-
   amet commodo massa.
 image: images/1-people-counting.jpg
 thumb_image: images/1-people-counting.jpg
+action: Leggi
 template: post
 ---
 
