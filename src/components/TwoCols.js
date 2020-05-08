@@ -21,7 +21,7 @@ export default class TwoCols extends React.Component {
             </div>
             <div className="inner">
               <div key="1" className="block-item">
-                <div className="grid">
+                <div className="agrid">
                   <div className="cell block-content">
                     <h3 className="block-title underline">
                       <img className="" src={safePrefix(_.get(section, 'head_icon_col1'))} alt={_.get(section, 'title_col1')} />

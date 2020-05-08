@@ -1,15 +1,15 @@
 ---
-title: Building & Governments
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+title: Edifici Pubblici e Privati
 date: '2019-03-27'
 excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  - Rispetto del distanziamento sociale all’interno dello stabile.
+
+  - Rilevazione di assembramenti negli spazi comuni, come hall d'ingresso o mense.
+
+  - Monitoraggio del rispetto delle misure di contigentamento degli accessi.
 image: images/ambito-3.jpg
 thumb_image: images/ambito-thumb-3.jpg
-action: Leggi
+action: Esplora questo ambito
 template: post
 ---
 

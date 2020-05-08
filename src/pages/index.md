@@ -5,15 +5,12 @@ sections:
     title: co.exist
     section_id: hero
     content: >-
-       Intelligenza Artificiale per gestire efficacemente l’impatto del Covid-19<br/>
-       **co.exist** è una piattaforma software di video analisi basata sulle più moderne
-       ed innovative tecnologie di Object Tracking e Deep Learning.
+      Algoritmi di **Intelligenza Artificiale, Interfaccia semplice ed intuitiva e Data Intelligence** per gestire protamente ed efficacemente l’impatto del Covid-19 sulla nostra quotidianità.
     image: images/coexist-hero.png
   - type: section_features
-    title: Behaviour Analysis per prevenire Covid-19
     section_id: intro
     subtitle: >-
-      Co.exist permette di monitorare aree indoor e outdoor generando allarmi e dati statistici utili non solo per garantire il rispetto puntuale delle direttive sanitarie e governative in tema di Covid-19 ma anche per fornire strumenti atti a pianificare e gestire, in ambito sia pubblico sia privato, il rientro a una <br/>«nuova normalità».
+      <b>co.exist</b> permette di monitorare aree indoor e outdoor sfruttando l'impianto di videosorveglianza esistente, generando allarmi e dati statistici per garantire il rispetto puntuale delle direttive sanitarie e governative in tema di Covid-19. Per pianificare e gestire il rientro a una «nuova normalità» in ambito pubblico e privato, senza installare ulteriori apparati.
     background: gray
   - type: section_posts
     title: Ambiti applicativi
@@ -24,52 +21,44 @@ sections:
     section_id: features
     background: gray
     features:
-      - title: Indoor
+      - title: Monitoraggio
         content: >-
-          Fabulas fore nostrud appellat ad laboris tempor multos commodo anim. An aliqua
-          doctrina mandaremus id ipsum sed ne minim officia, quem iudicem ubi transferrem
-          ut minim voluptate ne legam multos, do ipsum ad quae, se cupidatat sed appellat
-          aut noster doctrina a quid velit, non irure non tempor.
+          L’esperienza è stata progettata per rendere il monitoring immediato e avere istantaneamente le informazioni più rilevanti grazie a un’interfaccia semplice e particolarmente intuitiva. Lo studio di icone e cromie aiuta la facilità di lettura dei dati.
+          L’utente può gestire e condividere le informazioni grazie a un solo click/tap.
         image: images/in.jpg
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Outdoor
+      - title: Analisi
         content: >-
-          Magna probant ne ingeniis ubi excepteur noster irure in quorum, e constias se
-          ingeniis de appellat dolor fugiat ubi export, doctrina hic elit vidisse ubi enim
-          eiusmod ubi consectetur hic aliquip concursionibus se laborum e doctrina quis
-          sunt et labore. Ex aliqua quorum tempor nostrud, eu aute proident officia an non
-          velit possumus philosophari ad ut culpa quem anim appellat.
+          La scelta delle informazioni da mostrare e da analizzare attraverso la dashboard è orientata all'azionabilità, alla concretezza ed in particolare al miglioramento ed indirizzamento del processo decisionale dell'utente.
+          Attraverso logiche che possano soddisfare sia visioni d'insieme, sia di dettaglio, la dashboard è in grado di aiutare i decision maker ad impostare e prioritizzare gli interventi, così come le risorse a disposizione, a beneficio dell'efficienza e dell'efficacia degli stessi.
         image: images/out.jpg
-        actions:
-          - label: Learn More
-            url: /features
   - type: section_posts2
     title: Detezioni
     post_slice: 5
     section_id: recent-posts
     background: gray                
   - type: section_cta
-    title: Chiedi una demo personalizzata
+    title: Richiedi informazioni o una demo personalizzata
     section_id: call-to-action
     subtitle:
     actions:
       - label: Contattaci
         url: /contatti    
   - type: two_cols
-    title: Lorem ipsum
+    title: Dall'unione di due eccellenze nasce co.exist
     subtitle: >-
-      Culpa occaecat ab fore cillum, minim concursionibus ullamco quis expetendis a
-      elit quo ita elit eiusmod hic noster voluptate o philosophari. Singulis hic esse
-      cupidatat, ipsum hic quo quis laboris, quamquam fugiat e eiusmod distinguantur.    
-    title_col1: AKQA
-    head_icon_col1: /images/loghi/akqa.png
-    head_icon_col2: /images/loghi/sprinx.png
-    title_col2: SPRINX
+      Sofisticati algoritmi di intelligenza artificiale frutto dell'esperienza Sprinx nel mondo internazionale della mobilità, uniti all'approccio attento ed innovativo di AKQA per la user experience e la fruizione dei dati a scopi di business intelligence, permettono di affrontare in maniera semplice ed immediata l'emergenza Covid-19 ma anche di beneficiare delle più moderne tecnologie per una gestione sempre più smart della mobilità in ambito sia pubblico sia privato.
+    title_col2: AKQA
+    head_icon_col2: /images/loghi/akqa.png
+    head_icon_col1: /images/loghi/logo-sprinx.png
+    title_col1: SPRINX
     content_col1: >-
-      Specializzata nella creazione di servizi e prodotti digitali, con esperti multidisciplinari nei settori della strategia, della creatività, delle soluzioni tecnologiche e dell’analisi dati.
+      Sprinx è un Independent Software Vendor (ISV) italiano, specializzato nella progettazione e fornitura di piattaforme software di video analisi in grado di analizzare la mobilità di veicoli e persone.
+      Il modulo Sprinx di Deep Leaning combinato con la tecnologia di tracciamento degli oggetti 3D ha potenziato la capacità di raccogliere dati statistici e rilevare automaticamente eventi anomali nella mobilità, contribuendo a cambiare i target di performance di riferimento sul mercato.
+      Nata nel 2009, Sprinx ha guadagnato un ruolo di primo piano sul mercato mondiale, acquisendo premi internazionali per il valore innovativo delle sue soluzioni. Grazie al suo dipartimento interno di Ricerca & Sviluppo, con figure di alto profilo nel campo della Computer Vision e dell'Intelligenza Artificiale, Sprinx è uno dei pochi attori in grado di fornire soluzioni per il monitoraggio intelligente della mobilità di persone e veicoli nell'industria del traffico e dei trasporti, ma anche nei settori privati e pubblici. Sprinx è presente con la sua tecnologia in oltre 15 Paesi in tutto il mondo e ha fornito oltre 8.000 canali di analisi video grazie ai propri partner locali certificati.
     content_col2: >-
-      Specializzato nella progettazione e nello sviluppo di algoritmi di video e behaviour analysis basati su tecnologie Object tracking e Deep Learning, Computer Vision e Artificial Intelligence.
+      AKQA è un’agenzia specializzata nell’ideazione, progettazione e realizzazione di innovative forme di interazione, su tutti i canali di contatto, tra clienti e brand e parte del Gruppo WPP.
+      I nostri clienti sono i nostri partner, insieme creiamo il futuro della customer experience, esaltando l’unicità dei loro brand.
+      Il nostro approccio imprenditoriale e collaborativo ci permette di progettare servizi digitali su misura che trasformano e innovano generando valore e un impatto misurabile.
+      In Italia dal 2015, a seguito della fusione con H-ART, prima startup del venture incubator H-FARM. Oggi AKQA è presente in 24 sedi tra Stati Uniti, America Latina, Europa e Asia e conta su una squadra di 2.300 professionisti, di cui 200 in Italia.
 template: landing
 ---

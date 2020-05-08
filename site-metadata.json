@@ -45,7 +45,7 @@
     "footer": {
         "logo_img": "images/logo-coexist.png",
         "tagline": "co.exist by Sprinx and AKQA",
-        "has_nav": true,
+        "has_nav": false,
         "nav_title": "Company",
         "nav_links": [
             {
@@ -57,16 +57,11 @@
                 "url": "/contact"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_title": "Community",
         "social_links": [
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "new_window": true
-            }
         ],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
         "content": "&copy; All rights reserved.",

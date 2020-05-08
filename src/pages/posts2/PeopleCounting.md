@@ -1,13 +1,11 @@
 ---
-title: PeopleCounting
+title: "#PEOPLECOUNTING"
 subtitle: A story about customer loyalty
 date: '2019-04-23'
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Analisi delle entrate e uscite di persone per garantire il rispetto della capienza massima consentita. La piattaforma software offre un contatore live e alert per l’avvicinamento o il superamento della soglia massima.
 image: images/1-people-counting.jpg
 thumb_image: images/1-people-counting.jpg
-action: Leggi
 template: post
 ---
 

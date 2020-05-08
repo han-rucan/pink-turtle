@@ -1,12 +1,10 @@
 ---
-title: Traffic Density
+title: "#TRAFFICDENSITY"
 date: '2019-01-09'
 excerpt: >-
-  Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
-  faucibus purus. Mauris at pharetra risus.
+  Analisi delle mobilità e della viabilità, volta a verificare e rilevare situazioni anomale nella circolazione stradale, in termini di tipologia, numero di veicoli in transito sul territorio o nell’area di competenza.
 image: images/4-traffic.jpg
 thumb_image: images/4-traffic.jpg
-action: Leggi
 template: post
 ---
 

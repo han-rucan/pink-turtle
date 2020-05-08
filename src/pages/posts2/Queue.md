@@ -1,13 +1,11 @@
 ---
-title: Queue
+title: "#TRAFFICJAM"
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 date: '2018-01-11'
 excerpt: >-
-  Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
-  interdum, massa massa tempor ante.
+  Controllo della viabilità per allertare in caso di situazioni anomale nel traffico locale, quali ingorghi, code e fermo veicoli.
 image: images/5-queue.jpg
 thumb_image: images/5-queue.jpg
-action: Leggi
 template: post
 ---
 

@@ -1,15 +1,10 @@
 ---
-title: "Proximity"
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis.
-date: '2019-03-26'
+title: "#PROXIMITY"
+date: '2019-05-26'
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Allarme relativo al rispetto del distanziamento sociale. La piattaforma software consente di configurare parametri quali: numero di persone coinvolte, soglia di distanza e tempo di permanenza della prossimità.
 image: images/3-proximity.jpg
 thumb_image: images/3-proximity.jpg
-action: Leggi
 template: post
 ---
 

@@ -1,12 +1,10 @@
 ---
-title: Crowded Area
-date: '2019-03-24'
+title: "#CROWDEDAREA"
+date: '2019-05-20'
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Allerta per  rilevazione di aree affollate e/o di assembramenti. La piattaforma software consente di configurare parametri quali: numero massimo di persone consentite e tempo di permanenza dello stato di assembramento.
 image: images/2-crowd.jpg
 thumb_image: images/2-crowd.jpg
-action: Leggi
 template: post
 ---
 

@@ -2,10 +2,14 @@
 title: Retail & GDO
 date: '2019-04-22'
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  - Rispetto del distanziamento sociale della clientela in situazioni di coda.
+
+  - Rilevazione di assembramenti all’interno del punto vendita.
+
+  - Monitoraggio del rispetto delle misure di contigentamento degli accessi.
+
 image: images/ambito-2.jpg
-action: Leggi
+action: Esplora questo ambito
 thumb_image: images/ambito-thumb-2.jpg
 template: post
 ---
