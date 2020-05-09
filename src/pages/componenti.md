@@ -1,37 +1,27 @@
 ---
 title: Componenti
 sections:
-  - type: section_content
+  - type: two_cols
     title: Componenti
-    section_id: features
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    subtitle: >-
+      La piattaforma software co.exist è composta da due elementi:      
+    title_col2: L’INTERFACCIA WEB PER LA VISUALIZZAZIONE DEI DATI
+    title_col1: IL MOTORE DI ANALISI CON CLIENT DI CONFIGURAZIONE
+    content_col1: >-
+      Progettato e sviluppato da Sprinx. Basato su reti neurali e su un'innovativa combinazione di due tecnologie, Deep Learning e 3D Object Tracking, che ne potenzia le performance.
+      <img src="/images/icona_brain.png" style="width: 200px; display: block; margin: auto; margin-top: 20px; "/>      
+    content_col2: >-
+      Progettata e sviluppata da AKQA.
+      La visualizzazione dei dati ha l’obiettivo principale di essere intuitiva ed utilizzabile sia da Desktop che in mobilità su dispositivi mobile.
+      <img src="/images/icona_device.png" style="width: 260px; display: block; margin: auto; margin-top: 20px; "/>
+    body_content: >-
+      Il motore, il client e il web server sono installabili su PC standard (SO Linux Ubuntu e processore Intel Core i7-8559U o superiore a seconda del numero di telecamere da analizzare sul medesimo server), mentre il front-end di visualizzazione dei dati può essere consultato da qualsiasi browser PC e da dispositivi mobile.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      La piattaforma software oltre ad essere dotata di un proprio front-end, è facilmente inseribile in architetture di sistema più complesse, pubbliche e private, attraverso l’attivazione di protocolli di comunicazione standard (esempio: HTTP, TCP in formato Json, FTP, ModBus, OPC UA, OPC DA) o custom. Tale funzionalità rappresenta un valore aggiunto in quanto la soluzione offerta potrà essere facilmente integrata con altri sistemi già in essere o in fase di sviluppo.
+      La piattaforma software è in grado di processare i flussi video standard RTSP/Onvif trasmessi dalle telecamere già installate presso il sito, riducendo drasticamente l’investimento necessario per l’acquisto e l’installazione di sensori di campo dedicati.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
-    background: gray
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - type: section_cta
-    title: This Is Call to Action Block!
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
+      L’utilizzo di reti neurali addestrate per applicazioni di behaviour analysis, basate su Intel® OpenVINO™, integrate con un approccio di tracciamento degli oggetti 3D, permette di essere particolarmente adattivi in impianti TVCC pre-esitenti garantendo buone performance anche in condizioni installative e ambientali non ottimali.
 template: landing
 ---

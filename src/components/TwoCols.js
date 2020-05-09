@@ -24,7 +24,12 @@ export default class TwoCols extends React.Component {
                 <div className="agrid">
                   <div className="cell block-content">
                     <h3 className="block-title underline">
+                    {_.get(section, 'head_icon_col1') &&
                       <img className="" src={safePrefix(_.get(section, 'head_icon_col1'))} alt={_.get(section, 'title_col1')} />
+                    }
+                    {_.get(section, 'title_col1') &&
+                      _.get(section, 'title_col1')
+                    }
                     </h3>
                     <div className="block-copy">
                       {markdownify(_.get(section, 'content_col1'))}
@@ -33,7 +38,12 @@ export default class TwoCols extends React.Component {
 
                   <div className="cell block-content">
                     <h3 className="block-title underline">
-                                          <img className="" src={safePrefix(_.get(section, 'head_icon_col2'))} alt={_.get(section, 'title_col2')} />
+                    {_.get(section, 'head_icon_col2') &&
+                      <img className="" src={safePrefix(_.get(section, 'head_icon_col2'))} alt={_.get(section, 'title_col2')} />
+                    }
+                    {_.get(section, 'title_col2') &&
+                      _.get(section, 'title_col2')
+                    }
                     </h3>
                     <div className="block-copy">
                       {markdownify(_.get(section, 'content_col2'))}
@@ -41,6 +51,11 @@ export default class TwoCols extends React.Component {
                   </div>
                 </div>
               </div>
+                <div className="block-copy">
+                  {_.get(section, 'body_content') &&
+                    markdownify(_.get(section, 'body_content'))
+                  }
+                </div>
               </div>
           </section>
 

@@ -47,10 +47,8 @@ sections:
     title: Dall'unione di due eccellenze nasce co.exist
     subtitle: >-
       Sofisticati algoritmi di intelligenza artificiale frutto dell'esperienza Sprinx nel mondo internazionale della mobilità, uniti all'approccio attento ed innovativo di AKQA per la user experience e la fruizione dei dati a scopi di business intelligence, permettono di affrontare in maniera semplice ed immediata l'emergenza Covid-19 ma anche di beneficiare delle più moderne tecnologie per una gestione sempre più smart della mobilità in ambito sia pubblico sia privato.
-    title_col2: AKQA
     head_icon_col2: /images/loghi/akqa.png
     head_icon_col1: /images/loghi/logo-sprinx.png
-    title_col1: SPRINX
     content_col1: >-
       Sprinx è un Independent Software Vendor (ISV) italiano, specializzato nella progettazione e fornitura di piattaforme software di video analisi in grado di analizzare la mobilità di veicoli e persone.
       Il modulo Sprinx di Deep Leaning combinato con la tecnologia di tracciamento degli oggetti 3D ha potenziato la capacità di raccogliere dati statistici e rilevare automaticamente eventi anomali nella mobilità, contribuendo a cambiare i target di performance di riferimento sul mercato.
