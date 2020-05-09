@@ -42,7 +42,7 @@ export default class SectionPosts extends React.Component {
                       }
                       <div className="post-card-content">
                         <header className="post-header">
-                          <h3 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h3>
+                          <h3 className="post-title">{_.get(post, 'frontmatter.title')}</h3>
                         </header>
                         <div className="post-excerpt">
                           {markdownify(_.get(post, 'frontmatter.excerpt'))}
