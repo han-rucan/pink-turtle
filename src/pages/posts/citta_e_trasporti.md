@@ -6,7 +6,7 @@ excerpt: >-
 
   - Rilevazione di assembramento in luoghi pubblici.
 
-  - Analisi della viabilità locale.
+  - Analisi della mobilità con il conteggio e la classificazione dei veicoli.
 image: images/ambito-1.jpg
 action: Esplora questo ambito
 thumb_image: images/ambito-thumb-1.jpg

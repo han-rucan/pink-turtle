@@ -4,7 +4,7 @@ date: '2019-03-27'
 excerpt: >-
   - Rispetto del distanziamento sociale all’interno dello stabile.
 
-  - Rilevazione di assembramenti negli spazi comuni, come hall d'ingresso o mense.
+  - Rilevazione di assembramenti negli spazi comuni, come hall o mense.
 
   - Monitoraggio del rispetto delle misure di contigentamento degli accessi.
 image: images/ambito-3.jpg

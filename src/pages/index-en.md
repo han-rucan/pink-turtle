@@ -50,11 +50,11 @@ sections:
       Sophisticated artificial intelligence algorythms developed by Sprinx to address international projects in the field of mobility, plus the innovative approach of AKQA to user experience and data reading for business intellingence. A collaboration that will allow to address the Covid-19 emergency in a simple and immediate way, and to take advantage of the most innovative technologies in order to manage mobility in a always smarter way.     
     head_icon_col1: /images/loghi/akqa.png
     head_icon_col2: /images/loghi/logo-sprinx.png    
-    content_col1: >-
+    content_col2: >-
       Sprinx is an Italian Independent Software Vendor (ISV), specialised in designing and providing video intelligent software platforms able to analyse the mobility of vehicles and people.
       Our powerful and innovative Deep Leaning module combined with the 3D object tracking technology has significantly enhanced the ability to collect statistical data and automatically detect anomalous events in the mobility.
       Born in 2009, Sprinx has earned a leading role in the world market by acquiring international awards for the innovative value of its solutions. Thanks to its internal R&D Department, with high-profile figures in the field of Computer Vision and Artificial Intelligence, Sprinx is one of the few players capable of providing solutions for intelligent monitoring of the people and vehicles mobility in the Traffic and Transportation industries but also in the Private and Public sectors. Sprinx is present with its technology in over 15 countries worldwide and has provided over 8,000 video analysis channels thanks to its added-value local partners.
-    content_col2: >-
+    content_col1: >-
       AKQA is a next-generation design and communications company, part of the WPP Group. We collaborate with forward-thinking clients to create the future of their customer experience. We work in partnership to express the unique characteristics of their brand, and create value for their customers. Our approach is entrepreneurial and collaborative. We design adaptive digital services that capture the imagination and deliver measurable impact for our clients.
 template: landing
 ---
