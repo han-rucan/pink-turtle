@@ -2,12 +2,13 @@
 title: Contatti
 sections:
   - type: section_contact
-    title: Contatti
+    title: Richiesta contatto
     section_id: contact
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
     background: gray
+    submit: Invia
+    label_nome: Nome
+    label_email: Email
+    label_message: Messaggio
 template: landing
 ---
