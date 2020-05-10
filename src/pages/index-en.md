@@ -29,9 +29,6 @@ sections:
         content: >-
           The data visualized in the dashboard are selected in order to allow a better use and actionability of the information gathered. In this way it's possible to zoom in and out of the whole set of information, visualizing it on a dashboard that makes easier to prioritize the next actions and interventions.
         image: images/analisi.jpg
-        actions:
-          - label: Learn More
-            url: /features
   - type: section_posts2
     title: Detections
     post_slice: 5
