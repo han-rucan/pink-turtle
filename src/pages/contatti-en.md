@@ -1,13 +1,14 @@
 ---
-title: Contacts
+title: Contact us
 sections:
   - type: section_contact
-    title: Contacts
+    title: Contact us
     section_id: contact
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
     background: gray
+    submit: Request contact
+    label_nome: Name
+    label_email: Email
+    label_message: Message
 template: landing
 ---

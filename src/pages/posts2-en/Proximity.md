@@ -1,15 +1,10 @@
 ---
-title: "Proximity"
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis.
-date: '2019-03-26'
+title: "#PROXIMITY"
+date: '2020-05-01'
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  It is possible to send an alarm in the event of people not respecting the social distancing. The software platform allows you to configure parameters such as: number of people involved, distance threshold and proximity time.
 image: images/3-proximity.jpg
 thumb_image: images/3-proximity.jpg
-action: Learn more
 template: post
 ---
 

@@ -1,12 +1,10 @@
 ---
-title: Crowded Area
-date: '2019-03-24'
+title: "#CROWDEDAREA"
+date: '2020-04-30'
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Alert in case of detection of overcrowded areas and / or gatherings, whose number of individuals involved is not in line with health prevention measures. The software platform allows configuring parameters such as: the maximum number of people allowed and time spent in the gathering status.
 image: images/2-crowd.jpg
 thumb_image: images/2-crowd.jpg
-action: Learn more
 template: post
 ---
 

@@ -34,7 +34,7 @@ export default class SectionContact extends React.Component {
                     <input type="email" name="email" className="form-input"/>
                   </p>
                   <p className="form-row">
-                    <label className="form-label">{_.get(section, 'label_messagefoot')}</label>
+                    <label className="form-label">{_.get(section, 'label_message')}</label>
                     <textarea name="message" className="form-textarea" rows="7" />
                   </p>
                   <input type="hidden" name="form-name" value="contactForm" />

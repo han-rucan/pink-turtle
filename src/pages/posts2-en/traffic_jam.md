@@ -1,5 +1,5 @@
 ---
-title: Queue
+title: "#TRAFFICJAM"
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 date: '2018-01-11'
 excerpt: >-
@@ -7,7 +7,6 @@ excerpt: >-
   interdum, massa massa tempor ante.
 image: images/5-queue.jpg
 thumb_image: images/5-queue.jpg
-action: Learn more
 template: post
 ---
 

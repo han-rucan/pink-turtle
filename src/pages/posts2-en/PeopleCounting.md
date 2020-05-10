@@ -1,13 +1,10 @@
 ---
-title: PeopleCounting
-subtitle: A story about customer loyalty
-date: '2019-04-23'
+title: "#PEOPLECOUNTING"
+date: '2020-04-29'
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Analysis of access to the store, aimed at verifying and detecting the number of customers present in the store. The software platform provides, in addition to a live counter, alerts to the approach to the maximum allowed threshold.
 image: images/1-people-counting.jpg
 thumb_image: images/1-people-counting.jpg
-action: Learn more
 template: post
 ---
 
