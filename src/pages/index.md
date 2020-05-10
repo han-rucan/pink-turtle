@@ -30,7 +30,7 @@ sections:
         content: >-
           La scelta delle informazioni da mostrare e da analizzare attraverso la dashboard è orientata all'azionabilità, alla concretezza ed in particolare al miglioramento ed indirizzamento del processo decisionale dell'utente.
           Attraverso logiche che possano soddisfare sia visioni d'insieme, sia di dettaglio, la dashboard è in grado di aiutare i decision maker ad impostare e prioritizzare gli interventi, così come le risorse a disposizione, a beneficio dell'efficienza e dell'efficacia degli stessi.
-        image: images/out.jpg
+        image: images/analisi.jpg
   - type: section_posts2
     title: Detezioni
     post_slice: 5

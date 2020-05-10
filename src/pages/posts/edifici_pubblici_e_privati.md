@@ -11,6 +11,7 @@ image: images/ambito-3.jpg
 thumb_image: images/ambito-thumb-3.jpg
 action: Esplora questo ambito
 template: post
+
 ---
 
 co.exist permette agli edifici pubblici e privati di garantire, in maniera semplice ed immediata, il controllo degli accessi, oltre al rispetto delle normative sanitarie e governative in materia di distanziamento sociale e assembramento.
