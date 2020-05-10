@@ -4,7 +4,8 @@
  */
 
 .agrid {
-  display: flex;
+  display: block;
+  text-align: left;
 }
 
 img.ambiti {
@@ -12,7 +13,8 @@ img.ambiti {
 }
 
 .block-title {
-  font-size: 2.44444rem;
+  // font-size: 2.44444rem;
+  font-size: 2.0rem;
   margin: 0 0 1.33333rem;
 
   &:last-child {
@@ -74,6 +76,11 @@ img.ambiti {
       display: -webkit-flex;
       display: flex;
       margin: 0 -0.83333rem;
+    }
+
+    .agrid {
+      display: flex;
+      flex-wrap: wrap
     }
 
     .cell {
@@ -254,6 +261,12 @@ img.ambiti {
       justify-content: center;
     }
 
+    .agrid {
+      display: flex;
+      flex-wrap: wrap
+    }
+
+
     .cell {
       display: -webkit-flex;
       display: -ms-flexbox;
@@ -377,6 +390,11 @@ img.ambiti {
       margin: 0 -0.83333rem;
 
       justify-content: center;
+    }
+
+    .agrid {
+      display: flex;
+      flex-wrap: wrap
     }
 
     .cell {
@@ -571,6 +589,17 @@ img.ambiti {
   }
 }
 
+#partners {
+
+}
+
 #title-partners {
   margin-bottom: 50px;
+
+}
+
+.agrid {
+  .block-content {
+    padding: 10px;
+  }
 }

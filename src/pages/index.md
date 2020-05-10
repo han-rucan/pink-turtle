@@ -37,7 +37,7 @@ sections:
     section_id: recent-posts
     background: gray                
   - type: section_cta
-    title: Richiedi informazioni o una demo personalizzata
+    title: Richiedi informazioni o una demo
     section_id: call-to-action
     subtitle:
     actions:
