@@ -21,6 +21,7 @@ L’utilizzo di algoritmi basati su reti neurali permette di sfruttare le teleca
 
 La piattaforma co.exist "Negozi & GDO" comprende questi moduli di analisi video basati su reti neurali:
 
-<b>\#PROXIMITY<br/>
-\#CROWDEDAREA<br/>
-\#PEOPLECOUNTING</b>
+<b>
+#PROXIMITY<br/>
+#CROWDEDAREA<br/>
+#PEOPLECOUNTING</b>
