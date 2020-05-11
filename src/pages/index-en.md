@@ -24,11 +24,11 @@ sections:
       - title: Monitoring
         content: >-
           The experience was ideated to make the monitoring more immediate and to get the most relevant information in real time, through a simple and intuitive web interface. Icons and colors were designed especially to help the data reading. The user can manage and share information in just a click or tap.
-        image: images/in.jpg
+        image: images/indoor-2x.jpg
       - title: Analysis
         content: >-
           The data visualized in the dashboard are selected in order to allow a better use and actionability of the information gathered. In this way it's possible to zoom in and out of the whole set of information, visualizing it on a dashboard that makes easier to prioritize the next actions and interventions.
-        image: images/analisi.jpg
+        image: images/analisi-2x.jpg
   - type: section_posts2
     title: Detections
     post_slice: 5

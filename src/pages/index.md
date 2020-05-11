@@ -25,12 +25,12 @@ sections:
         content: >-
           L’esperienza è stata progettata per rendere il monitoring immediato e avere istantaneamente le informazioni più rilevanti grazie a un’interfaccia semplice e particolarmente intuitiva. Lo studio di icone e cromie aiuta la facilità di lettura dei dati.
           L’utente può gestire e condividere le informazioni grazie a un solo click/tap.
-        image: images/in.jpg
+        image: images/indoor-2x.jpg
       - title: Analisi
         content: >-
           La scelta delle informazioni da mostrare e da analizzare attraverso la dashboard è orientata all'azionabilità, alla concretezza ed in particolare al miglioramento ed indirizzamento del processo decisionale dell'utente.
           Attraverso logiche che possano soddisfare sia visioni d'insieme, sia di dettaglio, la dashboard è in grado di aiutare i decision maker ad impostare e prioritizzare gli interventi, così come le risorse a disposizione, a beneficio dell'efficienza e dell'efficacia degli stessi.
-        image: images/analisi.jpg
+        image: images/analisi-2x.jpg
   - type: section_posts2
     title: Detezioni
     post_slice: 5
