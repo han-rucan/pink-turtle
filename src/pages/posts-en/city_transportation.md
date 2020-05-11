@@ -6,7 +6,7 @@ excerpt: >-
 
   - Detection of people gatherings in public places.
 
-  - Analysis of local viability.
+  - Analysis of mobility through counting and classification of the vehicles.
 
 image: images/ambito-1.jpg
 action: Explore this field
@@ -24,7 +24,9 @@ The co.exist platform allows enhancing the controls on the territory, without in
 
 The co.exist platform "City & Transportation" consists of the following video analytics modules based on neural networks.
 
-\#PROXIMITY<br/>
-\#CROWDEDAREA<br/>
-\#TRAFFICDENSITY<br/>
-\#TRAFFICJAM
+<b>
+#PROXIMITY<br/>
+#CROWDEDAREA<br/>
+#TRAFFICDENSITY<br/>
+#TRAFFICJAM
+</b>

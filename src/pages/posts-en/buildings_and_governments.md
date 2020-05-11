@@ -1,10 +1,10 @@
 ---
-title: Governative and Private Buildings
+title: Gov. and Private Buildings
 date: '2019-03-27'
 excerpt: >-
   - Respect of social distancing of workers and non-employees.
 
-  - Detection of gathering people in common areas, like entrances or canteens.
+  - Detection of gathering people in common areas.
 
   - Monitoring of the store accesses in a quota-based manner.
 image: images/ambito-3.jpg
@@ -24,6 +24,8 @@ co.exist allows public buildings (hospitals, museums, universities, etc.) and pr
 
 The co.exist platform "Building & Governments" consists of the following video analytics modules based on neural networks.
 
-\#PROXIMITY<br/>
-\#CROWDEDAREA<br/>
-\#PEOPLECOUNTING
+<b>
+#PROXIMITY<br/>
+#CROWDEDAREA<br/>
+#PEOPLECOUNTING
+</b>

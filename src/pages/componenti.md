@@ -8,7 +8,7 @@ sections:
     title_col2: L’INTERFACCIA WEB PER LA VISUALIZZAZIONE DEI DATI
     title_col1: IL MOTORE DI ANALISI CON CLIENT DI CONFIGURAZIONE
     content_col1: >-
-      Progettato e sviluppato da Sprinx. Basato su reti neurali e su un'innovativa combinazione di due tecnologie, Deep Learning e 3D Object Tracking, che ne potenzia le performance.
+      Progettato e sviluppato da Sprinx. Basato su reti neurali e su un'innovativa combinazione di due tecnologie, Deep Learning e<br/> 3D Object Tracking, che ne potenzia le performance.
     content_col2: >-
       Progettata e sviluppata da AKQA.
       La visualizzazione dei dati ha l’obiettivo principale di essere intuitiva ed utilizzabile sia da Desktop che in mobilità su dispositivi mobile.

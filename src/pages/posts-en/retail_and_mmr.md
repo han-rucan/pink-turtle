@@ -22,6 +22,8 @@ co.exist allows the store to integrate sophisticated measures against the spread
 
 The co.exist platform "Retails & MMR" consists of the following video analytics modules based on neural networks.
 
-\#PROXIMITY<br/>
-\#CROWDEDAREA<br/>
-\#PEOPLECOUNTING
+<b>
+#PROXIMITY<br/>
+#CROWDEDAREA<br/>
+#PEOPLECOUNTING
+</b>

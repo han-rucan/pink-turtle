@@ -23,7 +23,7 @@ La piattaforma co.exist consente di fatto di potenziare i controlli sul territor
 
 La piattaforma co.exist per ""Città & Trasporti"" si compone dei seguenti moduli di analisi video basati su reti neurali:
 
-\#PROXIMITY<br/>
+<b>\#PROXIMITY<br/>
 \#CROWDEDAREA<br/>
 \#TRAFFICDENSITY<br/>
-\#TRAFFICJAM
+\#TRAFFICJAM</b>

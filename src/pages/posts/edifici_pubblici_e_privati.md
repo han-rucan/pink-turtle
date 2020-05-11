@@ -24,7 +24,8 @@ Grazie all’utilizzo di algoritmi innovativi e performanti basati su reti neura
 Le telecamere già installate all’interno dell’edificio si trasformano in sensori multifunzione garantendo un monitoraggio intelligente della struttura e dei suoi ambienti più critici (es. ingresso, area mensa, sala attesa, ecc.). Le informazioni raccolte dalla piattaforma co.exist permettono non solo di garantire interventi immediati volti al rispetto delle direttive ma anche accedere ad importanti dati per un azione di business intelligence.
 
 La piattaforma co.exist per "Edifici Pubblici e Privati" si compone dei seguenti moduli di analisi video basati su reti neurali:
-
+<b>
 \#PROXIMITY<br/>
 \#CROWDEDAREA<br/>
 \#PEOPLECOUNTING<br/>
+</b>
