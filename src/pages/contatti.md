@@ -2,7 +2,7 @@
 title: Contatti
 sections:
   - type: section_contact
-    title: Richiesta contatto
+    title: Scrivici, ti ricontatteremo a breve
     section_id: contact
     content: >-
     background: gray

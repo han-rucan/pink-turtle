@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import { Video } from 'gatsby-video'
-import video from '../../static/images/video.mp4'
+import video from '../../static/images/coexist_v2.mp4'
 
 import {safePrefix, markdownify} from '../utils';
 import ActionLink from './ActionLink';
@@ -15,8 +15,10 @@ export default class SectionHero extends React.Component {
                 <div className="grid">
                   {_.get(section, 'image') &&
                   <div className="cell block-preview">
-                  <iframe src="https://player.vimeo.com/video/11239915" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                  
+                  <video controls Autoplay autoplay="autoplay">
+                    <source src={video} type="video/mp4" />
+                  </video>
+
                   </div>
                   }
                   <div className="cell block-content">
