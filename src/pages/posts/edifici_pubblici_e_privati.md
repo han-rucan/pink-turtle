@@ -6,7 +6,7 @@ excerpt: >-
 
   - Rilevazione di assembramenti negli spazi comuni, come hall o mense.
 
-  - Monitoraggio del rispetto delle misure di contigentamento degli accessi.
+  - Monitoraggio del rispetto delle misure di contingentamento degli accessi.
 image: images/ambito-3.jpg
 thumb_image: images/ambito-thumb-3.jpg
 action: Esplora questo ambito

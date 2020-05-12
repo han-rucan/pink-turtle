@@ -5,7 +5,7 @@ sections:
     title: co.exist
     section_id: hero
     content: >-
-      Algoritmi di **Intelligenza Artificiale, Interfaccia semplice ed intuitiva e Data Intelligence** per gestire protamente ed efficacemente l’impatto del Covid-19 sulla nostra quotidianità.
+      Algoritmi di **Intelligenza Artificiale, Interfaccia semplice ed intuitiva e Data Intelligence** per gestire prontamente ed efficacemente l’impatto del Covid-19 sulla nostra quotidianità.
     image: images/coexist-hero.png
   - type: section_features
     section_id: intro

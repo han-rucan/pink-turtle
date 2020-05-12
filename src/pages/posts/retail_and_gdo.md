@@ -6,7 +6,7 @@ excerpt: >-
 
   - Rilevazione di assembramenti all’interno del punto vendita.
 
-  - Monitoraggio del rispetto delle misure di contigentamento degli accessi.
+  - Monitoraggio del rispetto delle misure di contingentamento degli accessi.
 
 image: images/ambito-2.jpg
 action: Esplora questo ambito
