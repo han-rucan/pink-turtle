@@ -27,11 +27,11 @@ export default class SectionContact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label className="form-label">{_.get(section, 'label_nome')}</label>
-                    <input type="text" name="name" className="form-input"/>
+                    <input type="text" name="name" className="form-input" required/>
                   </p>
                   <p className="form-row">
                     <label className="form-label">{_.get(section, 'label_email')}</label>
-                    <input type="email" name="email" className="form-input"/>
+                    <input type="email" name="email" className="form-input" required/>
                   </p>
                   <p className="form-row">
                     <label className="form-label">{_.get(section, 'label_message')}</label>
