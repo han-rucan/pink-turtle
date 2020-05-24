@@ -5,12 +5,12 @@ sections:
     title: co.exist
     section_id: hero
     content: >-
-      Algoritmi di **Intelligenza Artificiale, Interfaccia semplice ed intuitiva e Data Intelligence** per gestire prontamente ed efficacemente l’impatto del Covid-19 sulla nostra quotidianità.
+      Algoritmi di **Intelligenza Artificiale, Interfaccia semplice ed intuitiva, Data Intelligence** al servizio di una soluzione che rende efficace e facilmente gestibile l’adozione delle norme atte a prevenire la diffusione del Covid-19 nella nostra quotidianità.
     image: images/coexist-hero.png
   - type: section_features
     section_id: intro
     subtitle: >-
-      <b>co.exist</b> permette di monitorare aree indoor e outdoor sfruttando l'impianto di videosorveglianza esistente, generando allarmi e dati statistici per garantire il rispetto puntuale delle direttive sanitarie e governative in tema di Covid-19. Per pianificare e gestire il rientro a una «nuova normalità» in ambito pubblico e privato, senza installare ulteriori apparati.
+      <b>co.exist</b> è una piattaforma software di video analisi, basata sulle più moderne ed innovative tecnologie di object tracking e deep learning, che permette il monitoraggio di aree indoor e outdoor attraverso la rilevazione di veicoli o di persone che, in termini di numerosità, e per quest’ultimi anche di distanza tra loro e tempo di permanenza, stanno violando le direttive sanitarie e governative in tema di Covid-19. La piattaforma si appoggia all'impianto di videosorveglianza esistente collegandogli un sistema di allarme e la raccolta di dati statistici. Presto sarà disponibile anche una meccanica di alert sull’utente, in grado di renderlo consapevole e attivo nel processo di prevenzione.
     background: gray
   - type: section_posts
     title: Ambiti applicativi
