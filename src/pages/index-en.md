@@ -49,7 +49,7 @@ sections:
     head_icon_col1: /images/loghi/logo-sprinx.png    
     content_col1: >-
       Sprinx is an Italian Independent Software Vendor (ISV), specialised in designing and providing video intelligent software platforms able to analyse the mobility of vehicles and people.
-      Our powerful and innovative Deep Leaning module combined with the 3D object tracking technology has significantly enhanced the ability to collect statistical data and automatically detect anomalous events in the mobility.
+      Our powerful and innovative Deep Learning module combined with the 3D object tracking technology has significantly enhanced the ability to collect statistical data and automatically detect anomalous events in the mobility.
       Sprinx is present with its technology in over 15 countries worldwide and has provided over 8,000 video analysis channels thanks to its added-value local partners.
     content_col2: >-
       AKQA is a next-generation design and communications company, part of the WPP Group. We collaborate with forward-thinking clients to create the future of their customer experience. We work in partnership to express the unique characteristics of their brand, and create value for their customers. Our approach is entrepreneurial and collaborative. We design adaptive digital services that capture the imagination and deliver measurable impact for our clients.
