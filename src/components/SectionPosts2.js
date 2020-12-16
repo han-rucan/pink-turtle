@@ -38,7 +38,9 @@ export default class SectionPosts extends React.Component {
                         <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                       </Link>
                       ||
-                      <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      <span className="post-card-thumbnail">
+                        <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
+                      </span>
                       }
                       <div className="post-card-content">
                         <header className="post-header">
