@@ -15,12 +15,24 @@
                 "url": "/componenti",
                 "sub_links": [
                     {
-                        "label": "Asd 1",
-                        "url": "#",
+                        "label": "Smart City",
+                        "url": "/"
                     },
                     {
-                        "label": "Asd 2",
-                        "url": "#",
+                        "label": "Buildings",
+                        "url": "/"
+                    },
+                    {
+                        "label": "Commercial",
+                        "url": "/"
+                    },
+                    {
+                        "label": "Events",
+                        "url": "/"
+                    },
+                    {
+                        "label": "Covid-19",
+                        "url": "/"
                     }
                 ]
             },

@@ -34,11 +34,28 @@ export default class Header extends React.Component {
                           className="icon-close" aria-hidden="true" /></button>
                       <ul className="menu">
                         <li className="menu-item menu-button"><Link to="/"> {pageUrl.includes('en')}</Link></li>
+
                         {_.map(_.get(this.props, nav_links_prop), (action, action_idx) => (
                         <li key={action_idx} className={classNames('menu-item', {'current-menu-item': _.get(this.props, 'pageContext.url') === _.get(action, 'url'), 'menu-button': _.get(action, 'primary')})}>
                           <Link to={safePrefix(_.get(action, 'url'))}
                              {...(_.get(action, 'new_window') ? {target: '_blank', rel: 'noopener'} : null)}
                              className={classNames({'button': _.get(action, 'primary')})}>{_.get(action, 'label')}</Link>
+
+
+                            {((_.get(action, 'sub_links'))) ?
+                              <ul>
+                                {_.map(action.sub_links, (action, action_idx) => (
+                                  <li>
+                                    <Link to={safePrefix(_.get(action, 'url'))}
+                                      {...(_.get(action, 'new_window') ? {target: '_blank', rel: 'noopener'} : null)}
+                                      className={classNames({'button': _.get(action, 'primary')})}>{_.get(action, 'label')}</Link>
+                                  </li>
+                                ))}
+                              </ul>
+                             :
+                             ''
+                            }
+
                         </li>
                         ))}
                       </ul>
