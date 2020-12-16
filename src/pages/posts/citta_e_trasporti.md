@@ -19,6 +19,10 @@ co.exist rende le telecamere di videosorveglianza già presenti dei veri e propr
 
 <img src="/images/icone_city_transportations_coexist.png" class="ambiti" />
 
+|  |  |
+|--|--|
+![](https://via.placeholder.com/350x150)  |  ![](https://via.placeholder.com/350x150)
+
 La piattaforma co.exist consente di fatto di potenziare i controlli sul territorio, senza dover incrementare il personale dedicato a questa attività, generando alert in caso di individuazione di assembramenti di persone e/o flussi veicolari particolarmente consistenti e anomali oltre al non rispetto del distanziamento sociale. Inoltre, l’archiviazione nel database degli eventi e dei dati rilevati relativi al flusso di persone e di veicoli, consente di beneficiare di importanti e strategiche informazioni storiche per una pianificazione sia dell’attività di vigilanza sia della gestione della viabilità.
 
 La piattaforma co.exist per ""Città & Trasporti"" si compone dei seguenti moduli di analisi video basati su reti neurali:

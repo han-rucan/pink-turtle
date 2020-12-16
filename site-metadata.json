@@ -12,7 +12,17 @@
             },
             {
                 "label": "Componenti",
-                "url": "/componenti"
+                "url": "/componenti",
+                "sub_links": [
+                    {
+                        "label": "Asd 1",
+                        "url": "#",
+                    },
+                    {
+                        "label": "Asd 2",
+                        "url": "#",
+                    }
+                ]
             },
             {
                 "label": "Contatti",
