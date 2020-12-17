@@ -45,7 +45,7 @@ export default class Header extends React.Component {
                             {((_.get(action, 'sub_links'))) ?
                               <ul>
                                 {_.map(action.sub_links, (action, action_idx) => (
-                                  <li>
+                                  <li key={action_idx}>
                                     <Link to={safePrefix(_.get(action, 'url'))}
                                       {...(_.get(action, 'new_window') ? {target: '_blank', rel: 'noopener'} : null)}
                                       className={classNames({'button': _.get(action, 'primary')})}>{_.get(action, 'label')}</Link>
